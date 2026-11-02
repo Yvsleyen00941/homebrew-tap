@@ -1,17 +1,27 @@
-# Homebrew Tap for Yorben's Tools
+# Homebrew Tap for Yorben's Apps
 
-Official Homebrew tap for [Cockpit](https://github.com/Yvsleyen00941/Cockpit) and native macOS developer utilities by [Yorben Vandersleyen](https://yorben.me).
+Official Homebrew tap for native macOS applications built with Swift and SwiftUI by [Yorben Vandersleyen](https://yorben.me).
 
-## Installation
+## Add this Tap
 
 ```bash
 brew tap Yvsleyen00941/tap
 ```
 
-### Install Cockpit
+## Available Casks
+
+### 🎛️ Cockpit
+Unified daily productivity heads-up display and menu bar workspace dashboard for macOS.
 
 ```bash
-brew install Yvsleyen00941/tap/cockpit
+brew install --cask Yvsleyen00941/tap/cockpit
+```
+
+### ❄️ Rime
+Distraction-free minimal PDF reader where only the page is left and the rest of the screen freezes over.
+
+```bash
+brew install --cask Yvsleyen00941/tap/rime
 ```
 
 ---
