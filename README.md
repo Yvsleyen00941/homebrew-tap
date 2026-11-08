@@ -24,6 +24,13 @@ Distraction-free minimal PDF reader where only the page is left and the rest of 
 brew install --cask Yvsleyen00941/tap/rime
 ```
 
+### 📈 Tape
+A stock ticker in the empty corner beside the Dock: one listing at a time, in its logo's colour.
+
+```bash
+brew install --cask Yvsleyen00941/tap/tape
+```
+
 ---
 
 🌐 **Website:** [yorben.me](https://yorben.me) · 💻 **GitHub:** [@Yvsleyen00941](https://github.com/Yvsleyen00941)
