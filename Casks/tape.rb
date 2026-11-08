@@ -7,7 +7,7 @@ cask "tape" do
   desc "Stock ticker in the empty corner beside the Dock"
   homepage "https://yorben.me/#tape"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Tape.app"
 
