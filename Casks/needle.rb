@@ -1,6 +1,6 @@
 cask "needle" do
   version "1.0.0"
-  sha256 "1314ae09b27c1eb42ab693d9dfce47748d40c265f926e62d42ff87cd3510c345"
+  sha256 "88387a87a4c52df20cdccf851b48fe2dd464cf3f2df7a93314114d9c76178c2b"
 
   url "https://github.com/Yvsleyen00941/Needle/releases/download/v#{version}/Needle-macOS-v#{version}.zip"
   name "Needle"
