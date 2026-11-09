@@ -31,6 +31,13 @@ A stock ticker in the empty corner beside the Dock: one listing at a time, in it
 brew install --cask Yvsleyen00941/tap/tape
 ```
 
+### 💿 Needle
+What's playing, in the empty corner beside the Dock: the cover, and the title in its colour. Tape's other side.
+
+```bash
+brew install --cask Yvsleyen00941/tap/needle
+```
+
 ---
 
 🌐 **Website:** [yorben.me](https://yorben.me) · 💻 **GitHub:** [@Yvsleyen00941](https://github.com/Yvsleyen00941)
