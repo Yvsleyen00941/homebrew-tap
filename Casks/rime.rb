@@ -5,7 +5,7 @@ cask "rime" do
   url "https://github.com/Yvsleyen00941/Rime/releases/download/v#{version}/Rime-macOS-v#{version}.zip"
   name "Rime"
   desc "Distraction-free macOS PDF reader with frosted-ice focus backdrop"
-  homepage "https://yorben.me"
+  homepage "https://yorben.me/rime/"
 
   depends_on macos: ">= :sonoma"
 

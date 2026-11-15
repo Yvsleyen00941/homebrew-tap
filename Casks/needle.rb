@@ -5,9 +5,9 @@ cask "needle" do
   url "https://github.com/Yvsleyen00941/Needle/releases/download/v#{version}/Needle-macOS-v#{version}.zip"
   name "Needle"
   desc "Now-playing cover in the empty corner beside the Dock"
-  homepage "https://yorben.me/#needle"
+  homepage "https://yorben.me/needle/"
 
-  depends_on macos: :tahoe
+  depends_on macos: ">= :sonoma"
 
   app "Needle.app"
 

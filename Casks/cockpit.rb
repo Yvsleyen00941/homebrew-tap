@@ -5,7 +5,7 @@ cask "cockpit" do
   url "https://github.com/Yvsleyen00941/Cockpit/releases/download/v#{version}/Cockpit-macOS-v#{version}.zip"
   name "Cockpit"
   desc "Unified daily productivity heads-up display for macOS and iPadOS"
-  homepage "https://yorben.me"
+  homepage "https://yorben.me/cockpit/"
 
   depends_on macos: ">= :sonoma"
 

@@ -5,9 +5,9 @@ cask "tape" do
   url "https://github.com/Yvsleyen00941/Tape/releases/download/v#{version}/Tape-macOS-v#{version}.zip"
   name "Tape"
   desc "Stock ticker in the empty corner beside the Dock"
-  homepage "https://yorben.me/#tape"
+  homepage "https://yorben.me/tape/"
 
-  depends_on macos: :tahoe
+  depends_on macos: ">= :sonoma"
 
   app "Tape.app"
 
