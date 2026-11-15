@@ -7,7 +7,7 @@ cask "cockpit" do
   desc "Unified daily productivity heads-up display for macOS and iPadOS"
   homepage "https://yorben.me/cockpit/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Cockpit.app"
 

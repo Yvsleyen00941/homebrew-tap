@@ -7,7 +7,7 @@ cask "needle" do
   desc "Now-playing cover in the empty corner beside the Dock"
   homepage "https://yorben.me/needle/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Needle.app"
 

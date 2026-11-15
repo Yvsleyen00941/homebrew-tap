@@ -7,7 +7,7 @@ cask "rime" do
   desc "Distraction-free macOS PDF reader with frosted-ice focus backdrop"
   homepage "https://yorben.me/rime/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Rime.app"
 
